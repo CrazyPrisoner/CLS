@@ -1,0 +1,11 @@
+glob
+tqdm
+numpy
+pandas
+grpcio
+opencv
+pydicom
+matplotlib
+scikit-image
+tensorflow==1.15
+tensorflow-serving-api-python3
