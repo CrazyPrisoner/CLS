@@ -15,7 +15,7 @@
 
 ### Running TS as service on linux
    
-   tensorflow-model-server --grpc_port=666 --model_name=moodel model_base_path=<path to folder with model>
+    tensorflow-model-server --grpc_port=666 --model_name=moodel model_base_path=<path to folder with model>
 
 ### Running TS in Docker container
     
